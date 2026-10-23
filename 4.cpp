@@ -16,7 +16,7 @@ int main() {
 
 
     if(math == '+')
-        res == num1 + num2;
+        res = num1 + num2;
     else if (math == '-')
         res = num1 - num2;
     else if (math == '/')
